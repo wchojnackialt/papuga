@@ -1,10 +1,8 @@
-# Papuga
+# Supercharge: Twój folder pracy
 
-Prototyp aplikacji Papuga do programu Supercharge: AI+UX Skills for Product Makers.
+- **papuga/**: case ćwiczeniowy na pierwsze tygodnie (opis w papuga/case.md, wersja online: https://papuga-prototype.vercel.app)
+- **moj-projekt/**: miejsce na Twój własny projekt
+- **moje-notatki/**: Twoje wnioski
 
-- Wersja w przeglądarce: https://papuga-prototype.vercel.app
-- Opis case'u: docs/case.md
-- Swoje wnioski zapisuj w folderze moje-notatki/
-
-Chcesz uruchomić aplikację na swoim komputerze? Poproś swojego agenta AI:
-„Uruchom tę aplikację lokalnie i podaj mi adres, pod którym ją zobaczę”.
+Pracujesz z agentem AI (Claude Code albo Antigravity IDE) otwartym na tym folderze.
+Zasady pracy dla agenta są w pliku AGENTS.md.
