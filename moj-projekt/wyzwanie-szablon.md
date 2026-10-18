@@ -33,8 +33,3 @@ Jak moglibyśmy … ?
 ## Spodziewany efekt do dostarczenia
 
 [Co ma powstać na koniec programu, np. prototyp funkcji, koncepcja usługi, wyniki testu]
-
-## Materiały i ograniczenia (opcjonalnie)
-
-- Materiały, linki, dane:
-- Ograniczenia (technologia, prawo, marka, poufność):
