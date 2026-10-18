@@ -19,6 +19,9 @@ Użytkownik zwykle nie jest programistą.
 ## Jak pracujemy
 - Odpowiadaj po polsku, zwięźle. Tłumacz techniczne rzeczy prostym językiem.
 - Ustal, o który projekt chodzi (Papuga czy własny projekt). Jeśli nie wynika to z rozmowy, zapytaj.
+- Każdy projekt to osobny folder: papuga/ albo moj-projekt/. Wyniki procedur ze skills/
+  (np. desk research: research/<slug>/) zapisuj w folderze projektu, którego dotyczą,
+  np. papuga/research/<slug>/, a nie w katalogu głównym.
 - Nie zmieniaj kodu ani plików projektu, dopóki użytkownik wprost o to nie poprosi.
   Zanim cokolwiek zmienisz, przedstaw plan i poczekaj na zgodę.
 - Wnioski zapisuj jako pliki .md w moje-notatki/. Nie zapisuj niczego w papuga/case.md ani papuga/DESIGN.md.
