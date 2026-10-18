@@ -18,8 +18,7 @@ In this workflow the end product is a **context pack**: evidence-graded input fo
 5. **Seek counterevidence on purpose.** Every hypothesis gets disconfirming queries, and synthesis includes a red-team pass. Never "prove" a preferred solution.
 6. **Synthesise by question, not by link.** Everything is keyed to research question IDs (RQ1…), hypotheses (H1…), sources (S01…) and evidence cards (E01…).
 7. **No synthetic users.** Do not simulate users, generate "AI personas" as evidence, role-play interviews or invent quotes. Personas in the context pack are proto-personas built only from cited evidence.
-8. **Confidentiality.** Never put client names, internal data or confidential details into web search queries. Internal materials are read locally only.
-9. **Desk research does not replace user research.** Evidence about a different population is a hypothesis for the target users, not a finding.
+8. **Desk research does not replace user research.** Evidence about a different population is a hypothesis for the target users, not a finding.
 
 ## Modes
 
@@ -102,7 +101,7 @@ Read `references/source-plan.md`. Fill the source matrix per priority RQ (intern
 ### Step 6 – Search iteratively → `04-source-ledger.md`
 Read `references/search-and-evaluation.md`. Work through priority RQs first. Start broad to learn terminology, key authors and foundational reports; then narrow. Open every source you intend to use; record it in the ledger immediately with quote and access date. Update the budget counter in `_status.md`.
 
-In `full` mode with ≥3 priority RQs and an Agent tool available, you may run one research subagent per RQ in parallel. Give each the brief, its RQ and hypotheses, its query plan, the ledger format and hard rules 3–8. Merge results yourself: deduplicate, check independence, re-number sources.
+In `full` mode with ≥3 priority RQs and an Agent tool available, you may run one research subagent per RQ in parallel. Give each the brief, its RQ and hypotheses, its query plan, the ledger format and hard rules 3–7. Merge results yourself: deduplicate, check independence, re-number sources.
 
 **No web access?** If you have no web search or fetch tool, do not fall back on memory. Write a ready-to-paste research brief for a deep-research tool (e.g. Gemini Deep Research, Perplexity) from `02-questions.md` and `03-source-plan.md`, ask the user to save the result as a file in `research/<slug>/internal/`, and continue from step 7 using it. Treat it as user-provided: record its cited sources in the ledger, and mark figures and quotes without an opened source as `[unverified]`. Note the limitation in `_status.md`.
 

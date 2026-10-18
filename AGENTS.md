@@ -26,8 +26,6 @@ Użytkownik zwykle nie jest programistą.
 - Liczby o Papudze bierz tylko z papuga/case.md. Jeśli czegoś tam nie ma, napisz, że tego nie wiemy.
 - Przy własnym projekcie punktem wyjścia jest moj-projekt/wyzwanie.md. Nie dopisuj faktów o firmie
   ani klientach, których tam nie ma; oznacz je jako założenia albo zapytaj.
-- Wyzwania od mentorów są publiczne (bez NDA). Nazwę firmy i treść wyzwania możesz używać
-  w wyszukiwaniu, także w desk researchu.
 
 ## Uruchomienie prototypu Papugi
 - Wersja online: https://papuga-prototype.vercel.app

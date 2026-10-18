@@ -34,8 +34,6 @@ Per priority RQ:
 4. **Language variants** — market language + English.
 5. **Source-type targeting** — e.g. `site:` for regulators, "filetype:pdf report", app-store pages, scholar search.
 
-Never include client names or confidential details in queries.
-
 ## Budget and stopping criterion
 Set explicitly:
 - **Budget** — full: ~8–12 searches per priority RQ (typically 40–60 total); quick: ~20 searches / ~12 opened sources.
